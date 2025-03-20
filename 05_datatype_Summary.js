@@ -31,3 +31,5 @@ console.log(typeof outsideTemp);
 // master objects , bowsore events
 //javascript is statically type or dynaically type "search"
 //TypeScript searching
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
